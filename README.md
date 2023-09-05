@@ -38,8 +38,8 @@ hindu-test/
 │   ├── assets/           # Static assets (e.g., images)
 │   ├── components/        # React components
 │   ├── styles/            # Stylesheets (Tailwind CSS)
-│   ├── App.js             # Main application component
-│   ├── index.js           # Entry point
+│   ├── App.jsx             # Main application component
+│   ├── index.jsx           # Entry point
 ├── .gitignore            # Git ignore file
 ├── package.json          # Project configuration
 ├── README.md             # This README file
